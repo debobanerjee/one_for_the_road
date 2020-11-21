@@ -9,3 +9,9 @@ Train and Test split, where number mentioned in each line indicates the row inde
 
 File: images.zip
 Contains all the images with face blurred.
+
+If you use our dataset in any form, please cite the below mentioned paper.
+
+[1] Debopriyo Banerjee, Niloy Ganguly, Shamik Sural, and Krothapalli Sreenivasa Rao. "One for the Road: Recommending
+Male Street Attire." In Proceedings of 22nd Pacific-Asia Conference on Knowledge Discovery and Data Mining, pages
+571-582, 2018.
