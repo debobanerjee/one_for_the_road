@@ -15,7 +15,7 @@ File: images.zip
 Contains all the images with face blurred.
 
 We do not own the images. So, please use it for only academic research purpose. 
-If you use our dataset in any form, please cite the below mentioned paper.
+If you use our dataset, then please cite the below mentioned paper.
 
 [1] Debopriyo Banerjee, Niloy Ganguly, Shamik Sural, and Krothapalli Sreenivasa Rao. "One for the Road: Recommending
 Male Street Attire." In Proceedings of 22nd Pacific-Asia Conference on Knowledge Discovery and Data Mining, pages
